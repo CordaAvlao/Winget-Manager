@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Build artifacts (PyInstaller)
+build/
+dist/
+*.spec
+
+# Runtime config (generated locally)
+config.json
+
+# IDE / OS
+.vs/
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Logs & temp
+*.log
+*.tmp
+.cache/
