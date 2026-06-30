@@ -1,5 +1,7 @@
 # Winget Manager
 
+[English](README.md) · [Français](README.fr.md)
+
 A clean, native Windows GUI for **winget** — search packages, install them,
 download installers, and keep your apps up to date without ever touching a
 terminal.
@@ -37,6 +39,18 @@ once.
   stops showing up in updates.
 - **No console window** — ships with a `.pyw` launcher and a fully
   self-contained `.exe` build.
+
+---
+
+## Screenshots
+
+**Updates tab** — available updates with current → available versions, multi-select, and bulk actions.
+
+![Updates tab](screenshots/winget-updates.png)
+
+**Catalog tab** — search the winget repository and inspect results before installing.
+
+![Catalog tab](screenshots/winget-catalog.png)
 
 ---
 
